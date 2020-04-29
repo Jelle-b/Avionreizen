@@ -1,0 +1,75 @@
+body   {
+  background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/let-there-be-sun.png)
+}
+
+.navbar   {
+  background: #B7E9F7;
+}
+
+.nav-link,
+.navbar-brand {
+  color: #000000;
+  cursor: pointer;
+}
+
+.nav-link {
+  margin-right: 1em !important;
+}
+.nav-link:hover {
+  color: #000;
+}
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+img   {
+  float: left;
+}
+
+#zonvakantie   {
+  float: left;
+  width: 1350px;
+  height: 200px;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  float: left;
+}
+
+.centered   {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#landen   {
+  display: block;
+  float: left;
+  width: 260px;
+  height: 270px;
+  margin: 30px;
+}
+
+.allelanden   {
+  display: inline-block;
+  text-align: center;
+}
+
+.contact   {
+  display: block;
+  font-size: 30px;
+  padding: 100px 20px;
+}
+
+.about   {
+  display: block;
+  font-size: 30px;
+}
+
+.landinfo   {
+  display: block;
+  font-size: 20px;
+}
